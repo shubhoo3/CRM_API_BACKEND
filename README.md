@@ -37,7 +37,7 @@ This is a backend API for a CRM (Customer Relationship Management) system. It is
 
 - Node.js (v14 or higher recommended)
 - npm (Node package manager)
-- Database (e.g., MongoDB, MySQL, etc. as configured in `config/database.js`)
+- Database (e.g., SQLITE, MongoDB, MySQL, etc. as configured in `config/database.js`)
 
 ### Installation
 
